@@ -1,0 +1,6 @@
+service_port: 8080
+db_port: 3306
+db_host: "localhost"
+db_username: "root"
+db_password: "TEST1234"
+db_dbname: "stat"
