@@ -1,6 +1,7 @@
 # go-gin-mysql Example
 
-PreRequisties 
+Prerequisite
+
  * Go( version 1.1 or more) should be installed.
  * Add Running MySQL server details(host,port,db name,etc) in config.yaml - No  need to create tables. 
  
